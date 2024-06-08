@@ -7,13 +7,15 @@ import Contact from './components/Contact'
 import Client from './components/Client'
 import Marketing from './components/Marketing'
 import "/home/davie/smartfarm/smartfarm/src/Styles.css"
+import About from './components/About'
 function App() {
 
   return (
     <>
-      <div className='bg-dark-900 font-bold'>
+      <div className=''>
       < Navbar />
       < Home />
+      < About />
       < Client />
       < Marketing />
       < Testimonials />

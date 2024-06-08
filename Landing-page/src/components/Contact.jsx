@@ -3,21 +3,19 @@ import React from 'react'
 const Contact = () => {
   return (
     <div>
-      <p>Get in Touch</p>
-      <p>Have questions or need support? Reach out to us!</p>
+      <p className='font-bold mt-4 text-center'>Get in Touch</p>
+      <p className='text-center'>Have questions or need support? Reach out to us!</p>
       <form action="#" method="post">
-        <label htmlFor="">Name</label>
-        <input type="text" />
-
+        <div className="grid gap-4">
+      <div className="text-center ">
         <label htmlFor="">Email</label>
-        <input type="text" />
-
-        <label htmlFor="">Message</label>
-        <input type="text" />
-
-        <p>Email</p>
-        <p>Phone Number</p>
-        <p>Address</p>        
+        <input type="text" className='bg-slate-300 rounded-full' placeholder=' email address'/>
+        </div>
+        <div className=" text-center">
+        <label htmlFor="" >Message</label>
+        <input type="text" className='bg-slate-300 rounded-full' placeholder ='for esteemed experience'/>
+        </div>
+        </div>
       </form>
     </div>
   )

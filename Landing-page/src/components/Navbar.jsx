@@ -8,13 +8,13 @@ const Navbar = ({ logo }) => {
       <img src={logo} className='w-16 h-16 ml-2 -mt-2' alt='logo'/>
       <Link to="/"><p className='text-[24px] font-bold text-green-700'>SmartFarm</p></Link>
       </div>
-      <div className="flex text-[18px] ml-64 gap-8 text-black mt-2">
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/features">Features</Link>
-        <Link to="/testimonials">Testimonials</Link>
-        <Link to="/faq">FAQ</Link>
-        <Link to="/contact">Contact</Link>
+      <div className="flex text-[18px] ml-64 gap-8 text-black mt-2 ">
+        <Link to="/" className='hover:text-green-700'>Home</Link>
+        <Link to="/about" className='hover:text-green-700'>About</Link>
+        <Link to="/features" className='hover:text-green-700'>Features</Link>
+        <Link to="/testimonials" className='hover:text-green-700'>Testimonials</Link>
+        <Link to="/faq" className='hover:text-green-700'>FAQ</Link>
+        <Link to="/contact" className='hover:text-green-700'>Contact</Link>
       </div>
       <div className="gap-8 flex mt-2 ml-28">
         <button className="gap-8 -mt-6">Login</button>

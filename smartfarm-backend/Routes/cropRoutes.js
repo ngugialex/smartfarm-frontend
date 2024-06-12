@@ -1,8 +1,10 @@
 const express = require('express');
 const router = express.Router();
-const cropController = require('../Controllers/cropController');
-const authMiddleware = require('../Middlewares/authMiddleware');
+const { getCropRecommendations } = require('../Controllers/cropController');
+const auth = require('../Middlewares/auth');
 
-router.get('/recommendations', authMiddleware, cropController.getCropRecommendations);
+// router.get('/recommendations', auth, getCropRecommendations);
+router.get('/recommendations', getCropRecommendations);
+
 
 module.exports = router;

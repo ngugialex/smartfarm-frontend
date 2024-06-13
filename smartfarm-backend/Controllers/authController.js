@@ -1,32 +1,23 @@
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-const User = require('../Models/User');
+const { findUserByEmail, createUser, findUserById } = require('../Models/UserModel');
 
 exports.register = async (req, res) => {
   const { username, email, password, location } = req.body;
 
   try {
-    let user = await User.findOne({ email });
+    let user = await findUserByEmail(email);
     if (user) {
       return res.status(400).json({ msg: 'User already exists' });
     }
 
-    user = new User({
-      username,
-      email,
-      password,
-      location,
-    });
-
     const salt = await bcrypt.genSalt(10);
-    user.password = await bcrypt.hash(password, salt);
+    const hashedPassword = await bcrypt.hash(password, salt);
 
-    await user.save();
+    const userId = await createUser(username, email, hashedPassword, location);
 
     const payload = {
-      user: {
-        id: user.id,
-      },
+      user: { id: userId },
     };
 
     jwt.sign(payload, process.env.JWT_SECRET, { expiresIn: '5h' }, (err, token) => {
@@ -43,7 +34,7 @@ exports.login = async (req, res) => {
   const { email, password } = req.body;
 
   try {
-    let user = await User.findOne({ email });
+    const user = await findUserByEmail(email);
     if (!user) {
       return res.status(400).json({ msg: 'Invalid credentials' });
     }
@@ -54,9 +45,7 @@ exports.login = async (req, res) => {
     }
 
     const payload = {
-      user: {
-        id: user.id,
-      },
+      user: { id: user.id },
     };
 
     jwt.sign(payload, process.env.JWT_SECRET, { expiresIn: '5h' }, (err, token) => {
@@ -71,7 +60,8 @@ exports.login = async (req, res) => {
 
 exports.getProfile = async (req, res) => {
   try {
-    const user = await User.findById(req.user.id).select('-password');
+    const user = await findUserById(req.user.id);
+    delete user.password;
     res.json(user);
   } catch (err) {
     console.error(err.message);

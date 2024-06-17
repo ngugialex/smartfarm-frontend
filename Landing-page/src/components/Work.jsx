@@ -16,8 +16,8 @@ const Work = () => {
         <p className='font-bold text-[28px] text-green-700'> produce more yields</p>
         <p>We are happy to continously serve farmers and help strenghten agriculture</p>
     </div>
-    <div className="flex gap-56 mt-6 ">
-      <div className="grid ml-24">
+    <div className="flex xl:gap-56 mt-6 gap-8 mr-4 ml-6">
+      <div className="grid xl:ml-24 xl:gap-12 gap-4 mr-2">
       <StatisticsCard
         imageSrc={members}
         altText="Members"
@@ -33,7 +33,7 @@ const Work = () => {
 
 </div>
 
-<div className="grid gap-8">
+<div className="grid xl:gap-8">
       <StatisticsCard
         imageSrc={trends}
         altText="Insights"

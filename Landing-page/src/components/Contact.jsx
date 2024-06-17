@@ -7,9 +7,9 @@ const Contact = () => {
 
 <div className="justify-center items-center min-h-screen bg-green-50 py-8 pt-12 pb-12 mt-8 ">
     <p className="font-bold text-2xl text-center text-green-700 mb-4">Get in Touch</p>
-    <div className="flex gap-24">
+    <div className="xl:flex gap-24">
       <div className="mt-8 flex justify-center">
-          <img src={happy} alt="Happy" className="ml-6 h-[516px] w-[696px]"  />
+          <img src={happy} alt="Happy" className="ml-6 xl:h-[516px] xl:w-[696px] w-[500px] h-[300px] mr-6 "/>
         </div>
       <div className="bg-white shadow-lg rounded-lg p-8 max-w-md w-full">
         <p className="font-bold text-2xl text-center text-green-700 mb-4">Get in Touch</p>

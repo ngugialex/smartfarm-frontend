@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "name": "Oats",
+    "season": "Autumn",
+    "yield": 7.19
+  },
+  {
+    "id": 2,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 2.33
+  },
+  {
+    "id": 3,
+    "name": "Pumpkins",
+    "season": "Summer",
+    "yield": 4.29
+  },
+  {
+    "id": 4,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 7.65
+  },
+  {
+    "id": 5,
+    "name": "Broccoli",
+    "season": "Summer",
+    "yield": 7.07
+  },
+  {
+    "id": 6,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 9.63
+  },
+  {
+    "id": 7,
+    "name": "Pumpkins",
+    "season": "Summer",
+    "yield": 3.22
+  },
+  {
+    "id": 8,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 4.66
+  },
+  {
+    "id": 9,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 9.7
+  },
+  {
+    "id": 10,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 2.21
+  },
+  {
+    "id": 11,
+    "name": "Peanuts",
+    "season": "Winter",
+    "yield": 7.55
+  },
+  {
+    "id": 12,
+    "name": "Pumpkins",
+    "season": "Autumn",
+    "yield": 4.41
+  },
+  {
+    "id": 13,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 6.99
+  },
+  {
+    "id": 14,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 1.45
+  },
+  {
+    "id": 15,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 9.14
+  },
+  {
+    "id": 16,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 7.49
+  },
+  {
+    "id": 17,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 5.31
+  },
+  {
+    "id": 18,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 4.8
+  },
+  {
+    "id": 19,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 7.86
+  },
+  {
+    "id": 20,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 2.49
+  },
+  {
+    "id": 21,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 2.53
+  },
+  {
+    "id": 22,
+    "name": "Peanuts",
+    "season": "Winter",
+    "yield": 3.23
+  },
+  {
+    "id": 23,
+    "name": "Cucumbers",
+    "season": "Spring",
+    "yield": 3.64
+  },
+  {
+    "id": 24,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 1.95
+  },
+  {
+    "id": 25,
+    "name": "Peanuts",
+    "season": "Spring",
+    "yield": 4.15
+  },
+  {
+    "id": 26,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 3.98
+  },
+  {
+    "id": 27,
+    "name": "Wheat",
+    "season": "Spring",
+    "yield": 8.04
+  },
+  {
+    "id": 28,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 6.39
+  },
+  {
+    "id": 29,
+    "name": "Peanuts",
+    "season": "Spring",
+    "yield": 6.93
+  },
+  {
+    "id": 30,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 4.85
+  },
+  {
+    "id": 31,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 4.92
+  },
+  {
+    "id": 32,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 7.7
+  },
+  {
+    "id": 33,
+    "name": "Onions",
+    "season": "Autumn",
+    "yield": 4.15
+  },
+  {
+    "id": 34,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 9.29
+  },
+  {
+    "id": 35,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 4.18
+  },
+  {
+    "id": 36,
+    "name": "Potatoes",
+    "season": "Winter",
+    "yield": 3.92
+  },
+  {
+    "id": 37,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 7.46
+  },
+  {
+    "id": 38,
+    "name": "Tomatoes",
+    "season": "Spring",
+    "yield": 5.64
+  },
+  {
+    "id": 39,
+    "name": "Maize",
+    "season": "Autumn",
+    "yield": 6.7
+  },
+  {
+    "id": 40,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 4.94
+  },
+  {
+    "id": 41,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 2.14
+  },
+  {
+    "id": 42,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 2.42
+  },
+  {
+    "id": 43,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 7.08
+  },
+  {
+    "id": 44,
+    "name": "Sugarbeets",
+    "season": "Autumn",
+    "yield": 9.61
+  },
+  {
+    "id": 45,
+    "name": "Oats",
+    "season": "Winter",
+    "yield": 5.42
+  },
+  {
+    "id": 46,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 5.41
+  },
+  {
+    "id": 47,
+    "name": "Melons",
+    "season": "Autumn",
+    "yield": 5.11
+  },
+  {
+    "id": 48,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 5.06
+  },
+  {
+    "id": 49,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 9.05
+  },
+  {
+    "id": 50,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 2.53
+  },
+  {
+    "id": 51,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 6.41
+  },
+  {
+    "id": 52,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 6.01
+  },
+  {
+    "id": 53,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 9.37
+  },
+  {
+    "id": 54,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 6.14
+  },
+  {
+    "id": 55,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 9.91
+  },
+  {
+    "id": 56,
+    "name": "Cucumbers",
+    "season": "Spring",
+    "yield": 6.57
+  },
+  {
+    "id": 57,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 6.48
+  },
+  {
+    "id": 58,
+    "name": "Cotton",
+    "season": "Summer",
+    "yield": 4.82
+  },
+  {
+    "id": 59,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 4.59
+  },
+  {
+    "id": 60,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 2.13
+  },
+  {
+    "id": 61,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 9.69
+  },
+  {
+    "id": 62,
+    "name": "Sunflowers",
+    "season": "Spring",
+    "yield": 2.02
+  },
+  {
+    "id": 63,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 7.48
+  },
+  {
+    "id": 64,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 1.42
+  },
+  {
+    "id": 65,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 6.72
+  },
+  {
+    "id": 66,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 8.39
+  },
+  {
+    "id": 67,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 4.3
+  },
+  {
+    "id": 68,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 9.37
+  },
+  {
+    "id": 69,
+    "name": "Cotton",
+    "season": "Winter",
+    "yield": 9.91
+  },
+  {
+    "id": 70,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 3.99
+  },
+  {
+    "id": 71,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 2.53
+  },
+  {
+    "id": 72,
+    "name": "Peppers",
+    "season": "Winter",
+    "yield": 3.13
+  },
+  {
+    "id": 73,
+    "name": "Wheat",
+    "season": "Autumn",
+    "yield": 8.71
+  },
+  {
+    "id": 74,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 1.87
+  },
+  {
+    "id": 75,
+    "name": "Sugarbeets",
+    "season": "Winter",
+    "yield": 3.14
+  },
+  {
+    "id": 76,
+    "name": "Barley",
+    "season": "Winter",
+    "yield": 9.61
+  },
+  {
+    "id": 77,
+    "name": "Melons",
+    "season": "Spring",
+    "yield": 7.53
+  },
+  {
+    "id": 78,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 9.66
+  },
+  {
+    "id": 79,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 7.76
+  },
+  {
+    "id": 80,
+    "name": "Potatoes",
+    "season": "Summer",
+    "yield": 3.08
+  },
+  {
+    "id": 81,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 2.67
+  },
+  {
+    "id": 82,
+    "name": "Maize",
+    "season": "Autumn",
+    "yield": 3.8
+  },
+  {
+    "id": 83,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 1.84
+  },
+  {
+    "id": 84,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 1.97
+  },
+  {
+    "id": 85,
+    "name": "Cucumbers",
+    "season": "Spring",
+    "yield": 9.3
+  },
+  {
+    "id": 86,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 7.44
+  },
+  {
+    "id": 87,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 4.26
+  },
+  {
+    "id": 88,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 8.03
+  },
+  {
+    "id": 89,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 1.85
+  },
+  {
+    "id": 90,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 1.97
+  },
+  {
+    "id": 91,
+    "name": "Peanuts",
+    "season": "Autumn",
+    "yield": 6.74
+  },
+  {
+    "id": 92,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 8.87
+  },
+  {
+    "id": 93,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 9.75
+  },
+  {
+    "id": 94,
+    "name": "Melons",
+    "season": "Spring",
+    "yield": 9.15
+  },
+  {
+    "id": 95,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 3.08
+  },
+  {
+    "id": 96,
+    "name": "Sorghum",
+    "season": "Spring",
+    "yield": 5.19
+  },
+  {
+    "id": 97,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 2.91
+  },
+  {
+    "id": 98,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 1.72
+  },
+  {
+    "id": 99,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 3.91
+  },
+  {
+    "id": 100,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 3.8
+  },
+  {
+    "id": 101,
+    "name": "Sugarbeets",
+    "season": "Winter",
+    "yield": 3.66
+  },
+  {
+    "id": 102,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 3.87
+  },
+  {
+    "id": 103,
+    "name": "Soybeans",
+    "season": "Winter",
+    "yield": 2.9
+  },
+  {
+    "id": 104,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 5.22
+  },
+  {
+    "id": 105,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 4.44
+  },
+  {
+    "id": 106,
+    "name": "Carrots",
+    "season": "Spring",
+    "yield": 9.87
+  },
+  {
+    "id": 107,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 4.14
+  },
+  {
+    "id": 108,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 1.71
+  },
+  {
+    "id": 109,
+    "name": "Cotton",
+    "season": "Summer",
+    "yield": 7.48
+  },
+  {
+    "id": 110,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 1.27
+  },
+  {
+    "id": 111,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 7.58
+  },
+  {
+    "id": 112,
+    "name": "Watermelons",
+    "season": "Spring",
+    "yield": 8.9
+  },
+  {
+    "id": 113,
+    "name": "Rice",
+    "season": "Winter",
+    "yield": 9.98
+  },
+  {
+    "id": 114,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 4.86
+  },
+  {
+    "id": 115,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 7.07
+  },
+  {
+    "id": 116,
+    "name": "Barley",
+    "season": "Autumn",
+    "yield": 9.43
+  },
+  {
+    "id": 117,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 7.23
+  },
+  {
+    "id": 118,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 3.66
+  },
+  {
+    "id": 119,
+    "name": "Zucchini",
+    "season": "Winter",
+    "yield": 3.59
+  },
+  {
+    "id": 120,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 5.84
+  },
+  {
+    "id": 121,
+    "name": "Oats",
+    "season": "Winter",
+    "yield": 4.13
+  },
+  {
+    "id": 122,
+    "name": "Rice",
+    "season": "Winter",
+    "yield": 7.54
+  },
+  {
+    "id": 123,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 3.52
+  },
+  {
+    "id": 124,
+    "name": "Kale",
+    "season": "Autumn",
+    "yield": 5.97
+  },
+  {
+    "id": 125,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 6.39
+  },
+  {
+    "id": 126,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 7.93
+  },
+  {
+    "id": 127,
+    "name": "Tomatoes",
+    "season": "Summer",
+    "yield": 6.13
+  },
+  {
+    "id": 128,
+    "name": "Pumpkins",
+    "season": "Autumn",
+    "yield": 6.76
+  },
+  {
+    "id": 129,
+    "name": "Cotton",
+    "season": "Summer",
+    "yield": 2.22
+  },
+  {
+    "id": 130,
+    "name": "Tomatoes",
+    "season": "Summer",
+    "yield": 9.61
+  },
+  {
+    "id": 131,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 8.31
+  },
+  {
+    "id": 132,
+    "name": "Soybeans",
+    "season": "Spring",
+    "yield": 5.18
+  },
+  {
+    "id": 133,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 9.06
+  },
+  {
+    "id": 134,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 3.32
+  },
+  {
+    "id": 135,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 6.66
+  },
+  {
+    "id": 136,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 3.41
+  },
+  {
+    "id": 137,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 2.44
+  },
+  {
+    "id": 138,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 6.02
+  },
+  {
+    "id": 139,
+    "name": "Rice",
+    "season": "Autumn",
+    "yield": 2.38
+  },
+  {
+    "id": 140,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 1.24
+  },
+  {
+    "id": 141,
+    "name": "Rice",
+    "season": "Spring",
+    "yield": 5.83
+  },
+  {
+    "id": 142,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 8.54
+  },
+  {
+    "id": 143,
+    "name": "Cotton",
+    "season": "Autumn",
+    "yield": 2.46
+  },
+  {
+    "id": 144,
+    "name": "Cauliflower",
+    "season": "Autumn",
+    "yield": 5.58
+  },
+  {
+    "id": 145,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 4.51
+  },
+  {
+    "id": 146,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 5.36
+  },
+  {
+    "id": 147,
+    "name": "Sugarbeets",
+    "season": "Winter",
+    "yield": 9.06
+  },
+  {
+    "id": 148,
+    "name": "Cotton",
+    "season": "Winter",
+    "yield": 8.27
+  },
+  {
+    "id": 149,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 5.96
+  },
+  {
+    "id": 150,
+    "name": "Barley",
+    "season": "Winter",
+    "yield": 4.26
+  },
+  {
+    "id": 151,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 6.78
+  },
+  {
+    "id": 152,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 7.95
+  },
+  {
+    "id": 153,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 5.99
+  },
+  {
+    "id": 154,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 4.45
+  },
+  {
+    "id": 155,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 3.36
+  },
+  {
+    "id": 156,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 7.23
+  },
+  {
+    "id": 157,
+    "name": "Rice",
+    "season": "Autumn",
+    "yield": 1.77
+  },
+  {
+    "id": 158,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 7.33
+  },
+  {
+    "id": 159,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 7.71
+  },
+  {
+    "id": 160,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 5.93
+  },
+  {
+    "id": 161,
+    "name": "Pumpkins",
+    "season": "Spring",
+    "yield": 2.25
+  },
+  {
+    "id": 162,
+    "name": "Pumpkins",
+    "season": "Winter",
+    "yield": 4.41
+  },
+  {
+    "id": 163,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 8.99
+  },
+  {
+    "id": 164,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 5.11
+  },
+  {
+    "id": 165,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 5.93
+  },
+  {
+    "id": 166,
+    "name": "Broccoli",
+    "season": "Summer",
+    "yield": 4.77
+  },
+  {
+    "id": 167,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 5.9
+  },
+  {
+    "id": 168,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 3.04
+  },
+  {
+    "id": 169,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 8.27
+  },
+  {
+    "id": 170,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 5.05
+  },
+  {
+    "id": 171,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 3.89
+  },
+  {
+    "id": 172,
+    "name": "Cotton",
+    "season": "Autumn",
+    "yield": 8.95
+  },
+  {
+    "id": 173,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 3.59
+  },
+  {
+    "id": 174,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 1.43
+  },
+  {
+    "id": 175,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 8.24
+  },
+  {
+    "id": 176,
+    "name": "Soybeans",
+    "season": "Spring",
+    "yield": 9.44
+  },
+  {
+    "id": 177,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 6.69
+  },
+  {
+    "id": 178,
+    "name": "Cauliflower",
+    "season": "Spring",
+    "yield": 7.09
+  },
+  {
+    "id": 179,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 9.27
+  },
+  {
+    "id": 180,
+    "name": "Peanuts",
+    "season": "Winter",
+    "yield": 3.2
+  },
+  {
+    "id": 181,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 3.92
+  },
+  {
+    "id": 182,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 2.87
+  },
+  {
+    "id": 183,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 1.22
+  },
+  {
+    "id": 184,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 5.35
+  },
+  {
+    "id": 185,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 3.54
+  },
+  {
+    "id": 186,
+    "name": "Peanuts",
+    "season": "Spring",
+    "yield": 5.83
+  },
+  {
+    "id": 187,
+    "name": "Wheat",
+    "season": "Autumn",
+    "yield": 7.18
+  },
+  {
+    "id": 188,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 7.51
+  },
+  {
+    "id": 189,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 6.6
+  },
+  {
+    "id": 190,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 8.09
+  },
+  {
+    "id": 191,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 4.58
+  },
+  {
+    "id": 192,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 9.61
+  },
+  {
+    "id": 193,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 9.87
+  },
+  {
+    "id": 194,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 9.94
+  },
+  {
+    "id": 195,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 8.89
+  },
+  {
+    "id": 196,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 8.29
+  },
+  {
+    "id": 197,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 9.28
+  },
+  {
+    "id": 198,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 4.18
+  },
+  {
+    "id": 199,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 2.78
+  },
+  {
+    "id": 200,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 4.85
+  },
+  {
+    "id": 201,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 9.08
+  },
+  {
+    "id": 202,
+    "name": "Onions",
+    "season": "Summer",
+    "yield": 4.9
+  },
+  {
+    "id": 203,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 2.79
+  },
+  {
+    "id": 204,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 3.61
+  },
+  {
+    "id": 205,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 4.88
+  },
+  {
+    "id": 206,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 6.15
+  },
+  {
+    "id": 207,
+    "name": "Soybeans",
+    "season": "Winter",
+    "yield": 3.66
+  },
+  {
+    "id": 208,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 2.57
+  },
+  {
+    "id": 209,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 1.3
+  },
+  {
+    "id": 210,
+    "name": "Sunflowers",
+    "season": "Spring",
+    "yield": 2.39
+  },
+  {
+    "id": 211,
+    "name": "Maize",
+    "season": "Autumn",
+    "yield": 9.73
+  },
+  {
+    "id": 212,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 5.57
+  },
+  {
+    "id": 213,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 4.3
+  },
+  {
+    "id": 214,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 8.31
+  },
+  {
+    "id": 215,
+    "name": "Kale",
+    "season": "Autumn",
+    "yield": 9.28
+  },
+  {
+    "id": 216,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 7.05
+  },
+  {
+    "id": 217,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 5.77
+  },
+  {
+    "id": 218,
+    "name": "Tomatoes",
+    "season": "Spring",
+    "yield": 5.08
+  },
+  {
+    "id": 219,
+    "name": "Sugarbeets",
+    "season": "Autumn",
+    "yield": 9.19
+  },
+  {
+    "id": 220,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 7.73
+  },
+  {
+    "id": 221,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 4.28
+  },
+  {
+    "id": 222,
+    "name": "Maize",
+    "season": "Autumn",
+    "yield": 8.12
+  },
+  {
+    "id": 223,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 6.25
+  },
+  {
+    "id": 224,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 2.59
+  },
+  {
+    "id": 225,
+    "name": "Rice",
+    "season": "Winter",
+    "yield": 2.62
+  },
+  {
+    "id": 226,
+    "name": "Peppers",
+    "season": "Winter",
+    "yield": 2.67
+  },
+  {
+    "id": 227,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 6.39
+  },
+  {
+    "id": 228,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 7.87
+  },
+  {
+    "id": 229,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 3.16
+  },
+  {
+    "id": 230,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 1.47
+  },
+  {
+    "id": 231,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 2.86
+  },
+  {
+    "id": 232,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 2.31
+  },
+  {
+    "id": 233,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 5.08
+  },
+  {
+    "id": 234,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 4.61
+  },
+  {
+    "id": 235,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 1.09
+  },
+  {
+    "id": 236,
+    "name": "Pumpkins",
+    "season": "Summer",
+    "yield": 2.81
+  },
+  {
+    "id": 237,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 4.31
+  },
+  {
+    "id": 238,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 4.6
+  },
+  {
+    "id": 239,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 3.7
+  },
+  {
+    "id": 240,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 8.18
+  },
+  {
+    "id": 241,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 8.76
+  },
+  {
+    "id": 242,
+    "name": "Peanuts",
+    "season": "Autumn",
+    "yield": 4.04
+  },
+  {
+    "id": 243,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 5.18
+  },
+  {
+    "id": 244,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 1.09
+  },
+  {
+    "id": 245,
+    "name": "Melons",
+    "season": "Spring",
+    "yield": 3.38
+  },
+  {
+    "id": 246,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 4.07
+  },
+  {
+    "id": 247,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 6.86
+  },
+  {
+    "id": 248,
+    "name": "Wheat",
+    "season": "Spring",
+    "yield": 7.54
+  },
+  {
+    "id": 249,
+    "name": "Rice",
+    "season": "Winter",
+    "yield": 6.12
+  },
+  {
+    "id": 250,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 2.75
+  },
+  {
+    "id": 251,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 7.03
+  },
+  {
+    "id": 252,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 7.08
+  },
+  {
+    "id": 253,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 5.79
+  },
+  {
+    "id": 254,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 4.11
+  },
+  {
+    "id": 255,
+    "name": "Peppers",
+    "season": "Spring",
+    "yield": 3.97
+  },
+  {
+    "id": 256,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 7.55
+  },
+  {
+    "id": 257,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 7.27
+  },
+  {
+    "id": 258,
+    "name": "Rice",
+    "season": "Spring",
+    "yield": 8.08
+  },
+  {
+    "id": 259,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 7.83
+  },
+  {
+    "id": 260,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 7.95
+  },
+  {
+    "id": 261,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 5.59
+  },
+  {
+    "id": 262,
+    "name": "Barley",
+    "season": "Spring",
+    "yield": 5.68
+  },
+  {
+    "id": 263,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 5.27
+  },
+  {
+    "id": 264,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 2.35
+  },
+  {
+    "id": 265,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 1.17
+  },
+  {
+    "id": 266,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 9.99
+  },
+  {
+    "id": 267,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 9.72
+  },
+  {
+    "id": 268,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 8.43
+  },
+  {
+    "id": 269,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 6.18
+  },
+  {
+    "id": 270,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 8.67
+  },
+  {
+    "id": 271,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 7.78
+  },
+  {
+    "id": 272,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 5.28
+  },
+  {
+    "id": 273,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 9.24
+  },
+  {
+    "id": 274,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 1.7
+  },
+  {
+    "id": 275,
+    "name": "Onions",
+    "season": "Winter",
+    "yield": 7.69
+  },
+  {
+    "id": 276,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 9.1
+  },
+  {
+    "id": 277,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 3.16
+  },
+  {
+    "id": 278,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 9.06
+  },
+  {
+    "id": 279,
+    "name": "Melons",
+    "season": "Spring",
+    "yield": 5.89
+  },
+  {
+    "id": 280,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 8.71
+  },
+  {
+    "id": 281,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 1.17
+  },
+  {
+    "id": 282,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 7.51
+  },
+  {
+    "id": 283,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 4.23
+  },
+  {
+    "id": 284,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 6.78
+  },
+  {
+    "id": 285,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 2.31
+  },
+  {
+    "id": 286,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 5.11
+  },
+  {
+    "id": 287,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 2.51
+  },
+  {
+    "id": 288,
+    "name": "Barley",
+    "season": "Spring",
+    "yield": 3.75
+  },
+  {
+    "id": 289,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 7.32
+  },
+  {
+    "id": 290,
+    "name": "Cauliflower",
+    "season": "Autumn",
+    "yield": 4.53
+  },
+  {
+    "id": 291,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 6.59
+  },
+  {
+    "id": 292,
+    "name": "Tomatoes",
+    "season": "Summer",
+    "yield": 8.43
+  },
+  {
+    "id": 293,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 7.49
+  },
+  {
+    "id": 294,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 2.14
+  },
+  {
+    "id": 295,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 6.7
+  },
+  {
+    "id": 296,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 1.48
+  },
+  {
+    "id": 297,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 9.55
+  },
+  {
+    "id": 298,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 8.53
+  },
+  {
+    "id": 299,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 3.79
+  },
+  {
+    "id": 300,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 5.91
+  },
+  {
+    "id": 301,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 6.84
+  },
+  {
+    "id": 302,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 9.48
+  },
+  {
+    "id": 303,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 8.56
+  },
+  {
+    "id": 304,
+    "name": "Onions",
+    "season": "Summer",
+    "yield": 2.6
+  },
+  {
+    "id": 305,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 1.59
+  },
+  {
+    "id": 306,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 6.95
+  },
+  {
+    "id": 307,
+    "name": "Pumpkins",
+    "season": "Summer",
+    "yield": 1.0
+  },
+  {
+    "id": 308,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 1.81
+  },
+  {
+    "id": 309,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 9.0
+  },
+  {
+    "id": 310,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 9.13
+  },
+  {
+    "id": 311,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 2.35
+  },
+  {
+    "id": 312,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 4.21
+  },
+  {
+    "id": 313,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 9.3
+  },
+  {
+    "id": 314,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 5.46
+  },
+  {
+    "id": 315,
+    "name": "Soybeans",
+    "season": "Spring",
+    "yield": 8.22
+  },
+  {
+    "id": 316,
+    "name": "Pumpkins",
+    "season": "Winter",
+    "yield": 2.45
+  },
+  {
+    "id": 317,
+    "name": "Potatoes",
+    "season": "Summer",
+    "yield": 9.35
+  },
+  {
+    "id": 318,
+    "name": "Peppers",
+    "season": "Spring",
+    "yield": 4.31
+  },
+  {
+    "id": 319,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 2.66
+  },
+  {
+    "id": 320,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 9.83
+  },
+  {
+    "id": 321,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 7.85
+  },
+  {
+    "id": 322,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 7.13
+  },
+  {
+    "id": 323,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 5.24
+  },
+  {
+    "id": 324,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 8.9
+  },
+  {
+    "id": 325,
+    "name": "Cotton",
+    "season": "Winter",
+    "yield": 2.97
+  },
+  {
+    "id": 326,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 7.08
+  },
+  {
+    "id": 327,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 7.35
+  },
+  {
+    "id": 328,
+    "name": "Barley",
+    "season": "Spring",
+    "yield": 5.36
+  },
+  {
+    "id": 329,
+    "name": "Potatoes",
+    "season": "Summer",
+    "yield": 5.06
+  },
+  {
+    "id": 330,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 6.35
+  },
+  {
+    "id": 331,
+    "name": "Pumpkins",
+    "season": "Spring",
+    "yield": 2.3
+  },
+  {
+    "id": 332,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 1.97
+  },
+  {
+    "id": 333,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 3.42
+  },
+  {
+    "id": 334,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 8.97
+  },
+  {
+    "id": 335,
+    "name": "Watermelons",
+    "season": "Spring",
+    "yield": 7.96
+  },
+  {
+    "id": 336,
+    "name": "Broccoli",
+    "season": "Summer",
+    "yield": 5.15
+  },
+  {
+    "id": 337,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 6.52
+  },
+  {
+    "id": 338,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 1.4
+  },
+  {
+    "id": 339,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 6.88
+  },
+  {
+    "id": 340,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 5.34
+  },
+  {
+    "id": 341,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 2.93
+  },
+  {
+    "id": 342,
+    "name": "Maize",
+    "season": "Winter",
+    "yield": 2.79
+  },
+  {
+    "id": 343,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 6.77
+  },
+  {
+    "id": 344,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 2.91
+  },
+  {
+    "id": 345,
+    "name": "Onions",
+    "season": "Autumn",
+    "yield": 3.76
+  },
+  {
+    "id": 346,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 9.73
+  },
+  {
+    "id": 347,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 9.38
+  },
+  {
+    "id": 348,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 6.72
+  },
+  {
+    "id": 349,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 4.85
+  },
+  {
+    "id": 350,
+    "name": "Spinach",
+    "season": "Winter",
+    "yield": 9.25
+  },
+  {
+    "id": 351,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 9.84
+  },
+  {
+    "id": 352,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 6.25
+  },
+  {
+    "id": 353,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 8.41
+  },
+  {
+    "id": 354,
+    "name": "Barley",
+    "season": "Winter",
+    "yield": 8.1
+  },
+  {
+    "id": 355,
+    "name": "Oats",
+    "season": "Autumn",
+    "yield": 9.01
+  },
+  {
+    "id": 356,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 8.66
+  },
+  {
+    "id": 357,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 3.02
+  },
+  {
+    "id": 358,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 3.34
+  },
+  {
+    "id": 359,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 8.56
+  },
+  {
+    "id": 360,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 2.63
+  },
+  {
+    "id": 361,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 2.07
+  },
+  {
+    "id": 362,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 4.28
+  },
+  {
+    "id": 363,
+    "name": "Carrots",
+    "season": "Spring",
+    "yield": 3.79
+  },
+  {
+    "id": 364,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 6.68
+  },
+  {
+    "id": 365,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 7.93
+  },
+  {
+    "id": 366,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 2.2
+  },
+  {
+    "id": 367,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 5.26
+  },
+  {
+    "id": 368,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 2.22
+  },
+  {
+    "id": 369,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 6.97
+  },
+  {
+    "id": 370,
+    "name": "Cucumbers",
+    "season": "Spring",
+    "yield": 7.49
+  },
+  {
+    "id": 371,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 7.1
+  },
+  {
+    "id": 372,
+    "name": "Cotton",
+    "season": "Autumn",
+    "yield": 7.8
+  },
+  {
+    "id": 373,
+    "name": "Potatoes",
+    "season": "Winter",
+    "yield": 5.3
+  },
+  {
+    "id": 374,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 3.21
+  },
+  {
+    "id": 375,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 8.72
+  },
+  {
+    "id": 376,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 2.07
+  },
+  {
+    "id": 377,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 4.26
+  },
+  {
+    "id": 378,
+    "name": "Zucchini",
+    "season": "Winter",
+    "yield": 1.55
+  },
+  {
+    "id": 379,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 8.41
+  },
+  {
+    "id": 380,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 5.38
+  },
+  {
+    "id": 381,
+    "name": "Sugarbeets",
+    "season": "Winter",
+    "yield": 4.03
+  },
+  {
+    "id": 382,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 6.27
+  },
+  {
+    "id": 383,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 9.41
+  },
+  {
+    "id": 384,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 8.87
+  },
+  {
+    "id": 385,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 1.25
+  },
+  {
+    "id": 386,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 1.16
+  },
+  {
+    "id": 387,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 1.25
+  },
+  {
+    "id": 388,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 3.29
+  },
+  {
+    "id": 389,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 8.84
+  },
+  {
+    "id": 390,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 1.3
+  },
+  {
+    "id": 391,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 1.09
+  },
+  {
+    "id": 392,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 4.85
+  },
+  {
+    "id": 393,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 4.91
+  },
+  {
+    "id": 394,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 9.91
+  },
+  {
+    "id": 395,
+    "name": "Sunflowers",
+    "season": "Autumn",
+    "yield": 9.7
+  },
+  {
+    "id": 396,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 7.47
+  },
+  {
+    "id": 397,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 4.42
+  },
+  {
+    "id": 398,
+    "name": "Tomatoes",
+    "season": "Summer",
+    "yield": 5.29
+  },
+  {
+    "id": 399,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 7.64
+  },
+  {
+    "id": 400,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 7.65
+  },
+  {
+    "id": 401,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 7.24
+  },
+  {
+    "id": 402,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 1.59
+  },
+  {
+    "id": 403,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 6.69
+  },
+  {
+    "id": 404,
+    "name": "Wheat",
+    "season": "Autumn",
+    "yield": 8.34
+  },
+  {
+    "id": 405,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 3.47
+  },
+  {
+    "id": 406,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 2.38
+  },
+  {
+    "id": 407,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 1.32
+  },
+  {
+    "id": 408,
+    "name": "Sorghum",
+    "season": "Spring",
+    "yield": 6.98
+  },
+  {
+    "id": 409,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 5.28
+  },
+  {
+    "id": 410,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 1.84
+  },
+  {
+    "id": 411,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 6.37
+  },
+  {
+    "id": 412,
+    "name": "Sunflowers",
+    "season": "Autumn",
+    "yield": 4.01
+  },
+  {
+    "id": 413,
+    "name": "Melons",
+    "season": "Spring",
+    "yield": 6.98
+  },
+  {
+    "id": 414,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 8.91
+  },
+  {
+    "id": 415,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 2.27
+  },
+  {
+    "id": 416,
+    "name": "Cauliflower",
+    "season": "Autumn",
+    "yield": 8.96
+  },
+  {
+    "id": 417,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 5.12
+  },
+  {
+    "id": 418,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 5.04
+  },
+  {
+    "id": 419,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 6.7
+  },
+  {
+    "id": 420,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 4.21
+  },
+  {
+    "id": 421,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 5.76
+  },
+  {
+    "id": 422,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 8.69
+  },
+  {
+    "id": 423,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 1.39
+  },
+  {
+    "id": 424,
+    "name": "Peanuts",
+    "season": "Spring",
+    "yield": 8.66
+  },
+  {
+    "id": 425,
+    "name": "Peppers",
+    "season": "Winter",
+    "yield": 8.92
+  },
+  {
+    "id": 426,
+    "name": "Barley",
+    "season": "Winter",
+    "yield": 3.97
+  },
+  {
+    "id": 427,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 5.37
+  },
+  {
+    "id": 428,
+    "name": "Onions",
+    "season": "Autumn",
+    "yield": 7.82
+  },
+  {
+    "id": 429,
+    "name": "Peanuts",
+    "season": "Winter",
+    "yield": 4.72
+  },
+  {
+    "id": 430,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 9.34
+  },
+  {
+    "id": 431,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 6.75
+  },
+  {
+    "id": 432,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 3.13
+  },
+  {
+    "id": 433,
+    "name": "Onions",
+    "season": "Autumn",
+    "yield": 1.11
+  },
+  {
+    "id": 434,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 1.94
+  },
+  {
+    "id": 435,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 5.78
+  },
+  {
+    "id": 436,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 9.5
+  },
+  {
+    "id": 437,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 5.71
+  },
+  {
+    "id": 438,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 7.47
+  },
+  {
+    "id": 439,
+    "name": "Melons",
+    "season": "Autumn",
+    "yield": 2.34
+  },
+  {
+    "id": 440,
+    "name": "Rice",
+    "season": "Summer",
+    "yield": 4.52
+  },
+  {
+    "id": 441,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 5.29
+  },
+  {
+    "id": 442,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 2.16
+  },
+  {
+    "id": 443,
+    "name": "Barley",
+    "season": "Spring",
+    "yield": 4.85
+  },
+  {
+    "id": 444,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 6.31
+  },
+  {
+    "id": 445,
+    "name": "Carrots",
+    "season": "Spring",
+    "yield": 7.98
+  },
+  {
+    "id": 446,
+    "name": "Onions",
+    "season": "Summer",
+    "yield": 4.83
+  },
+  {
+    "id": 447,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 9.78
+  },
+  {
+    "id": 448,
+    "name": "Pumpkins",
+    "season": "Winter",
+    "yield": 7.2
+  },
+  {
+    "id": 449,
+    "name": "Broccoli",
+    "season": "Summer",
+    "yield": 5.48
+  },
+  {
+    "id": 450,
+    "name": "Barley",
+    "season": "Winter",
+    "yield": 9.92
+  },
+  {
+    "id": 451,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 2.93
+  },
+  {
+    "id": 452,
+    "name": "Cotton",
+    "season": "Winter",
+    "yield": 1.24
+  },
+  {
+    "id": 453,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 2.22
+  },
+  {
+    "id": 454,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 6.95
+  },
+  {
+    "id": 455,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 1.13
+  },
+  {
+    "id": 456,
+    "name": "Maize",
+    "season": "Winter",
+    "yield": 6.15
+  },
+  {
+    "id": 457,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 7.07
+  },
+  {
+    "id": 458,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 8.06
+  },
+  {
+    "id": 459,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 4.42
+  },
+  {
+    "id": 460,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 1.07
+  },
+  {
+    "id": 461,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 6.81
+  },
+  {
+    "id": 462,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 9.52
+  },
+  {
+    "id": 463,
+    "name": "Rice",
+    "season": "Summer",
+    "yield": 3.08
+  },
+  {
+    "id": 464,
+    "name": "Pumpkins",
+    "season": "Autumn",
+    "yield": 8.81
+  },
+  {
+    "id": 465,
+    "name": "Zucchini",
+    "season": "Winter",
+    "yield": 4.29
+  },
+  {
+    "id": 466,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 8.57
+  },
+  {
+    "id": 467,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 2.4
+  },
+  {
+    "id": 468,
+    "name": "Cucumbers",
+    "season": "Spring",
+    "yield": 2.96
+  },
+  {
+    "id": 469,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 8.24
+  },
+  {
+    "id": 470,
+    "name": "Wheat",
+    "season": "Winter",
+    "yield": 7.48
+  },
+  {
+    "id": 471,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 1.47
+  },
+  {
+    "id": 472,
+    "name": "Pumpkins",
+    "season": "Autumn",
+    "yield": 7.76
+  },
+  {
+    "id": 473,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 9.83
+  },
+  {
+    "id": 474,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 9.12
+  },
+  {
+    "id": 475,
+    "name": "Tomatoes",
+    "season": "Spring",
+    "yield": 8.79
+  },
+  {
+    "id": 476,
+    "name": "Rice",
+    "season": "Autumn",
+    "yield": 6.63
+  },
+  {
+    "id": 477,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 1.89
+  },
+  {
+    "id": 478,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 1.25
+  },
+  {
+    "id": 479,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 2.87
+  },
+  {
+    "id": 480,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 5.76
+  },
+  {
+    "id": 481,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 5.61
+  },
+  {
+    "id": 482,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 2.23
+  },
+  {
+    "id": 483,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 4.78
+  },
+  {
+    "id": 484,
+    "name": "Onions",
+    "season": "Autumn",
+    "yield": 4.06
+  },
+  {
+    "id": 485,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 9.51
+  },
+  {
+    "id": 486,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 9.84
+  },
+  {
+    "id": 487,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 2.99
+  },
+  {
+    "id": 488,
+    "name": "Wheat",
+    "season": "Winter",
+    "yield": 2.32
+  },
+  {
+    "id": 489,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 2.35
+  },
+  {
+    "id": 490,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 8.3
+  },
+  {
+    "id": 491,
+    "name": "Broccoli",
+    "season": "Summer",
+    "yield": 6.0
+  },
+  {
+    "id": 492,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 9.09
+  },
+  {
+    "id": 493,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 7.68
+  },
+  {
+    "id": 494,
+    "name": "Barley",
+    "season": "Winter",
+    "yield": 3.9
+  },
+  {
+    "id": 495,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 9.2
+  },
+  {
+    "id": 496,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 5.35
+  },
+  {
+    "id": 497,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 5.95
+  },
+  {
+    "id": 498,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 7.72
+  },
+  {
+    "id": 499,
+    "name": "Sugarbeets",
+    "season": "Autumn",
+    "yield": 4.64
+  },
+  {
+    "id": 500,
+    "name": "Potatoes",
+    "season": "Winter",
+    "yield": 5.23
+  },
+  {
+    "id": 501,
+    "name": "Rice",
+    "season": "Autumn",
+    "yield": 1.17
+  },
+  {
+    "id": 502,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 1.27
+  },
+  {
+    "id": 503,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 8.39
+  },
+  {
+    "id": 504,
+    "name": "Pumpkins",
+    "season": "Autumn",
+    "yield": 1.69
+  },
+  {
+    "id": 505,
+    "name": "Zucchini",
+    "season": "Winter",
+    "yield": 6.18
+  },
+  {
+    "id": 506,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 7.52
+  },
+  {
+    "id": 507,
+    "name": "Sunflowers",
+    "season": "Spring",
+    "yield": 9.32
+  },
+  {
+    "id": 508,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 3.85
+  },
+  {
+    "id": 509,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 6.73
+  },
+  {
+    "id": 510,
+    "name": "Onions",
+    "season": "Autumn",
+    "yield": 4.09
+  },
+  {
+    "id": 511,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 7.75
+  },
+  {
+    "id": 512,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 9.38
+  },
+  {
+    "id": 513,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 5.25
+  },
+  {
+    "id": 514,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 1.31
+  },
+  {
+    "id": 515,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 7.72
+  },
+  {
+    "id": 516,
+    "name": "Tomatoes",
+    "season": "Summer",
+    "yield": 5.78
+  },
+  {
+    "id": 517,
+    "name": "Melons",
+    "season": "Autumn",
+    "yield": 7.43
+  },
+  {
+    "id": 518,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 3.32
+  },
+  {
+    "id": 519,
+    "name": "Peanuts",
+    "season": "Spring",
+    "yield": 3.51
+  },
+  {
+    "id": 520,
+    "name": "Cotton",
+    "season": "Autumn",
+    "yield": 8.68
+  },
+  {
+    "id": 521,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 5.24
+  },
+  {
+    "id": 522,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 7.94
+  },
+  {
+    "id": 523,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 1.49
+  },
+  {
+    "id": 524,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 4.73
+  },
+  {
+    "id": 525,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 8.61
+  },
+  {
+    "id": 526,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 9.71
+  },
+  {
+    "id": 527,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 9.84
+  },
+  {
+    "id": 528,
+    "name": "Rice",
+    "season": "Spring",
+    "yield": 6.62
+  },
+  {
+    "id": 529,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 4.41
+  },
+  {
+    "id": 530,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 6.07
+  },
+  {
+    "id": 531,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 6.64
+  },
+  {
+    "id": 532,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 2.06
+  },
+  {
+    "id": 533,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 1.47
+  },
+  {
+    "id": 534,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 9.58
+  },
+  {
+    "id": 535,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 2.45
+  },
+  {
+    "id": 536,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 4.01
+  },
+  {
+    "id": 537,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 9.16
+  },
+  {
+    "id": 538,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 1.23
+  },
+  {
+    "id": 539,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 6.82
+  },
+  {
+    "id": 540,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 5.3
+  },
+  {
+    "id": 541,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 6.71
+  },
+  {
+    "id": 542,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 2.97
+  },
+  {
+    "id": 543,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 9.48
+  },
+  {
+    "id": 544,
+    "name": "Barley",
+    "season": "Spring",
+    "yield": 7.37
+  },
+  {
+    "id": 545,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 3.99
+  },
+  {
+    "id": 546,
+    "name": "Zucchini",
+    "season": "Winter",
+    "yield": 9.27
+  },
+  {
+    "id": 547,
+    "name": "Spinach",
+    "season": "Winter",
+    "yield": 1.86
+  },
+  {
+    "id": 548,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 5.52
+  },
+  {
+    "id": 549,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 5.14
+  },
+  {
+    "id": 550,
+    "name": "Soybeans",
+    "season": "Spring",
+    "yield": 3.42
+  },
+  {
+    "id": 551,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 4.69
+  },
+  {
+    "id": 552,
+    "name": "Rice",
+    "season": "Winter",
+    "yield": 2.72
+  },
+  {
+    "id": 553,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 6.43
+  },
+  {
+    "id": 554,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 6.0
+  },
+  {
+    "id": 555,
+    "name": "Cotton",
+    "season": "Winter",
+    "yield": 5.51
+  },
+  {
+    "id": 556,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 8.43
+  },
+  {
+    "id": 557,
+    "name": "Potatoes",
+    "season": "Winter",
+    "yield": 2.91
+  },
+  {
+    "id": 558,
+    "name": "Sugarbeets",
+    "season": "Autumn",
+    "yield": 5.04
+  },
+  {
+    "id": 559,
+    "name": "Broccoli",
+    "season": "Summer",
+    "yield": 8.01
+  },
+  {
+    "id": 560,
+    "name": "Watermelons",
+    "season": "Spring",
+    "yield": 3.1
+  },
+  {
+    "id": 561,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 8.94
+  },
+  {
+    "id": 562,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 4.14
+  },
+  {
+    "id": 563,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 9.36
+  },
+  {
+    "id": 564,
+    "name": "Melons",
+    "season": "Autumn",
+    "yield": 5.35
+  },
+  {
+    "id": 565,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 5.93
+  },
+  {
+    "id": 566,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 7.43
+  },
+  {
+    "id": 567,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 9.88
+  },
+  {
+    "id": 568,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 3.43
+  },
+  {
+    "id": 569,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 8.44
+  },
+  {
+    "id": 570,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 9.61
+  },
+  {
+    "id": 571,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 2.94
+  },
+  {
+    "id": 572,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 5.27
+  },
+  {
+    "id": 573,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 9.53
+  },
+  {
+    "id": 574,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 6.41
+  },
+  {
+    "id": 575,
+    "name": "Rice",
+    "season": "Autumn",
+    "yield": 4.19
+  },
+  {
+    "id": 576,
+    "name": "Soybeans",
+    "season": "Winter",
+    "yield": 7.13
+  },
+  {
+    "id": 577,
+    "name": "Pumpkins",
+    "season": "Summer",
+    "yield": 7.11
+  },
+  {
+    "id": 578,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 1.85
+  },
+  {
+    "id": 579,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 2.93
+  },
+  {
+    "id": 580,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 1.24
+  },
+  {
+    "id": 581,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 3.62
+  },
+  {
+    "id": 582,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 4.51
+  },
+  {
+    "id": 583,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 2.84
+  },
+  {
+    "id": 584,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 9.54
+  },
+  {
+    "id": 585,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 3.51
+  },
+  {
+    "id": 586,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 7.09
+  },
+  {
+    "id": 587,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 8.57
+  },
+  {
+    "id": 588,
+    "name": "Sunflowers",
+    "season": "Spring",
+    "yield": 5.71
+  },
+  {
+    "id": 589,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 1.45
+  },
+  {
+    "id": 590,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 5.62
+  },
+  {
+    "id": 591,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 8.95
+  },
+  {
+    "id": 592,
+    "name": "Soybeans",
+    "season": "Winter",
+    "yield": 1.69
+  },
+  {
+    "id": 593,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 8.65
+  },
+  {
+    "id": 594,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 6.69
+  },
+  {
+    "id": 595,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 1.75
+  },
+  {
+    "id": 596,
+    "name": "Peppers",
+    "season": "Spring",
+    "yield": 2.29
+  },
+  {
+    "id": 597,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 1.16
+  },
+  {
+    "id": 598,
+    "name": "Cotton",
+    "season": "Summer",
+    "yield": 5.29
+  },
+  {
+    "id": 599,
+    "name": "Potatoes",
+    "season": "Winter",
+    "yield": 5.49
+  },
+  {
+    "id": 600,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 3.35
+  },
+  {
+    "id": 601,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 9.82
+  },
+  {
+    "id": 602,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 2.2
+  },
+  {
+    "id": 603,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 7.82
+  },
+  {
+    "id": 604,
+    "name": "Rice",
+    "season": "Autumn",
+    "yield": 6.63
+  },
+  {
+    "id": 605,
+    "name": "Rice",
+    "season": "Summer",
+    "yield": 6.04
+  },
+  {
+    "id": 606,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 2.38
+  },
+  {
+    "id": 607,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 1.22
+  },
+  {
+    "id": 608,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 6.11
+  },
+  {
+    "id": 609,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 6.72
+  },
+  {
+    "id": 610,
+    "name": "Kale",
+    "season": "Autumn",
+    "yield": 7.54
+  },
+  {
+    "id": 611,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 6.04
+  },
+  {
+    "id": 612,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 7.18
+  },
+  {
+    "id": 613,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 7.65
+  },
+  {
+    "id": 614,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 2.65
+  },
+  {
+    "id": 615,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 6.62
+  },
+  {
+    "id": 616,
+    "name": "Barley",
+    "season": "Spring",
+    "yield": 1.89
+  },
+  {
+    "id": 617,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 3.31
+  },
+  {
+    "id": 618,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 1.15
+  },
+  {
+    "id": 619,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 1.24
+  },
+  {
+    "id": 620,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 2.59
+  },
+  {
+    "id": 621,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 2.91
+  },
+  {
+    "id": 622,
+    "name": "Onions",
+    "season": "Autumn",
+    "yield": 4.26
+  },
+  {
+    "id": 623,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 3.79
+  },
+  {
+    "id": 624,
+    "name": "Wheat",
+    "season": "Spring",
+    "yield": 1.49
+  },
+  {
+    "id": 625,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 1.95
+  },
+  {
+    "id": 626,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 3.99
+  },
+  {
+    "id": 627,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 5.14
+  },
+  {
+    "id": 628,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 7.84
+  },
+  {
+    "id": 629,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 6.56
+  },
+  {
+    "id": 630,
+    "name": "Cauliflower",
+    "season": "Spring",
+    "yield": 9.15
+  },
+  {
+    "id": 631,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 5.78
+  },
+  {
+    "id": 632,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 7.64
+  },
+  {
+    "id": 633,
+    "name": "Oats",
+    "season": "Winter",
+    "yield": 8.79
+  },
+  {
+    "id": 634,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 1.94
+  },
+  {
+    "id": 635,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 8.17
+  },
+  {
+    "id": 636,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 6.03
+  },
+  {
+    "id": 637,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 2.39
+  },
+  {
+    "id": 638,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 8.72
+  },
+  {
+    "id": 639,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 4.91
+  },
+  {
+    "id": 640,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 8.33
+  },
+  {
+    "id": 641,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 4.59
+  },
+  {
+    "id": 642,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 4.84
+  },
+  {
+    "id": 643,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 4.97
+  },
+  {
+    "id": 644,
+    "name": "Watermelons",
+    "season": "Winter",
+    "yield": 7.82
+  },
+  {
+    "id": 645,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 7.16
+  },
+  {
+    "id": 646,
+    "name": "Oats",
+    "season": "Autumn",
+    "yield": 9.81
+  },
+  {
+    "id": 647,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 6.55
+  },
+  {
+    "id": 648,
+    "name": "Barley",
+    "season": "Autumn",
+    "yield": 1.33
+  },
+  {
+    "id": 649,
+    "name": "Maize",
+    "season": "Autumn",
+    "yield": 6.23
+  },
+  {
+    "id": 650,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 1.8
+  },
+  {
+    "id": 651,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 4.55
+  },
+  {
+    "id": 652,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 8.45
+  },
+  {
+    "id": 653,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 1.08
+  },
+  {
+    "id": 654,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 4.21
+  },
+  {
+    "id": 655,
+    "name": "Barley",
+    "season": "Winter",
+    "yield": 2.88
+  },
+  {
+    "id": 656,
+    "name": "Peppers",
+    "season": "Spring",
+    "yield": 9.1
+  },
+  {
+    "id": 657,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 7.96
+  },
+  {
+    "id": 658,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 1.51
+  },
+  {
+    "id": 659,
+    "name": "Barley",
+    "season": "Autumn",
+    "yield": 2.04
+  },
+  {
+    "id": 660,
+    "name": "Zucchini",
+    "season": "Winter",
+    "yield": 8.26
+  },
+  {
+    "id": 661,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 8.29
+  },
+  {
+    "id": 662,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 2.58
+  },
+  {
+    "id": 663,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 3.88
+  },
+  {
+    "id": 664,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 8.39
+  },
+  {
+    "id": 665,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 2.58
+  },
+  {
+    "id": 666,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 3.15
+  },
+  {
+    "id": 667,
+    "name": "Peanuts",
+    "season": "Autumn",
+    "yield": 5.18
+  },
+  {
+    "id": 668,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 5.18
+  },
+  {
+    "id": 669,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 6.16
+  },
+  {
+    "id": 670,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 2.29
+  },
+  {
+    "id": 671,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 5.91
+  },
+  {
+    "id": 672,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 2.23
+  },
+  {
+    "id": 673,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 3.29
+  },
+  {
+    "id": 674,
+    "name": "Watermelons",
+    "season": "Spring",
+    "yield": 5.7
+  },
+  {
+    "id": 675,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 6.29
+  },
+  {
+    "id": 676,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 6.83
+  },
+  {
+    "id": 677,
+    "name": "Wheat",
+    "season": "Spring",
+    "yield": 5.04
+  },
+  {
+    "id": 678,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 1.41
+  },
+  {
+    "id": 679,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 3.49
+  },
+  {
+    "id": 680,
+    "name": "Maize",
+    "season": "Autumn",
+    "yield": 6.93
+  },
+  {
+    "id": 681,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 7.49
+  },
+  {
+    "id": 682,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 8.72
+  },
+  {
+    "id": 683,
+    "name": "Barley",
+    "season": "Spring",
+    "yield": 1.41
+  },
+  {
+    "id": 684,
+    "name": "Sorghum",
+    "season": "Spring",
+    "yield": 8.02
+  },
+  {
+    "id": 685,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 5.93
+  },
+  {
+    "id": 686,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 4.49
+  },
+  {
+    "id": 687,
+    "name": "Onions",
+    "season": "Summer",
+    "yield": 3.25
+  },
+  {
+    "id": 688,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 4.01
+  },
+  {
+    "id": 689,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 9.68
+  },
+  {
+    "id": 690,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 7.18
+  },
+  {
+    "id": 691,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 8.91
+  },
+  {
+    "id": 692,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 9.34
+  },
+  {
+    "id": 693,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 5.82
+  },
+  {
+    "id": 694,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 5.12
+  },
+  {
+    "id": 695,
+    "name": "Oats",
+    "season": "Autumn",
+    "yield": 4.88
+  },
+  {
+    "id": 696,
+    "name": "Wheat",
+    "season": "Winter",
+    "yield": 2.99
+  },
+  {
+    "id": 697,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 1.21
+  },
+  {
+    "id": 698,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 6.64
+  },
+  {
+    "id": 699,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 3.43
+  },
+  {
+    "id": 700,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 1.97
+  },
+  {
+    "id": 701,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 3.39
+  },
+  {
+    "id": 702,
+    "name": "Sorghum",
+    "season": "Spring",
+    "yield": 6.18
+  },
+  {
+    "id": 703,
+    "name": "Sugarbeets",
+    "season": "Winter",
+    "yield": 4.31
+  },
+  {
+    "id": 704,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 9.03
+  },
+  {
+    "id": 705,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 9.06
+  },
+  {
+    "id": 706,
+    "name": "Cotton",
+    "season": "Summer",
+    "yield": 8.61
+  },
+  {
+    "id": 707,
+    "name": "Cauliflower",
+    "season": "Autumn",
+    "yield": 4.41
+  },
+  {
+    "id": 708,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 5.87
+  },
+  {
+    "id": 709,
+    "name": "Sunflowers",
+    "season": "Spring",
+    "yield": 6.29
+  },
+  {
+    "id": 710,
+    "name": "Oats",
+    "season": "Winter",
+    "yield": 1.34
+  },
+  {
+    "id": 711,
+    "name": "Melons",
+    "season": "Autumn",
+    "yield": 7.72
+  },
+  {
+    "id": 712,
+    "name": "Peppers",
+    "season": "Winter",
+    "yield": 8.9
+  },
+  {
+    "id": 713,
+    "name": "Cucumbers",
+    "season": "Spring",
+    "yield": 4.32
+  },
+  {
+    "id": 714,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 4.41
+  },
+  {
+    "id": 715,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 3.39
+  },
+  {
+    "id": 716,
+    "name": "Peanuts",
+    "season": "Spring",
+    "yield": 2.17
+  },
+  {
+    "id": 717,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 8.72
+  },
+  {
+    "id": 718,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 9.39
+  },
+  {
+    "id": 719,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 2.91
+  },
+  {
+    "id": 720,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 6.9
+  },
+  {
+    "id": 721,
+    "name": "Cauliflower",
+    "season": "Spring",
+    "yield": 7.2
+  },
+  {
+    "id": 722,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 4.04
+  },
+  {
+    "id": 723,
+    "name": "Pumpkins",
+    "season": "Autumn",
+    "yield": 2.13
+  },
+  {
+    "id": 724,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 9.63
+  },
+  {
+    "id": 725,
+    "name": "Lettuce",
+    "season": "Autumn",
+    "yield": 2.38
+  },
+  {
+    "id": 726,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 5.37
+  },
+  {
+    "id": 727,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 5.27
+  },
+  {
+    "id": 728,
+    "name": "Watermelons",
+    "season": "Winter",
+    "yield": 2.84
+  },
+  {
+    "id": 729,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 9.0
+  },
+  {
+    "id": 730,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 2.91
+  },
+  {
+    "id": 731,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 4.11
+  },
+  {
+    "id": 732,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 2.68
+  },
+  {
+    "id": 733,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 5.93
+  },
+  {
+    "id": 734,
+    "name": "Melons",
+    "season": "Spring",
+    "yield": 6.69
+  },
+  {
+    "id": 735,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 2.62
+  },
+  {
+    "id": 736,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 1.48
+  },
+  {
+    "id": 737,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 8.99
+  },
+  {
+    "id": 738,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 6.74
+  },
+  {
+    "id": 739,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 7.57
+  },
+  {
+    "id": 740,
+    "name": "Rice",
+    "season": "Winter",
+    "yield": 9.68
+  },
+  {
+    "id": 741,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 8.31
+  },
+  {
+    "id": 742,
+    "name": "Melons",
+    "season": "Autumn",
+    "yield": 9.19
+  },
+  {
+    "id": 743,
+    "name": "Potatoes",
+    "season": "Winter",
+    "yield": 4.82
+  },
+  {
+    "id": 744,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 7.68
+  },
+  {
+    "id": 745,
+    "name": "Sugarbeets",
+    "season": "Autumn",
+    "yield": 3.09
+  },
+  {
+    "id": 746,
+    "name": "Pumpkins",
+    "season": "Summer",
+    "yield": 7.85
+  },
+  {
+    "id": 747,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 1.26
+  },
+  {
+    "id": 748,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 8.76
+  },
+  {
+    "id": 749,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 3.17
+  },
+  {
+    "id": 750,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 1.76
+  },
+  {
+    "id": 751,
+    "name": "Carrots",
+    "season": "Spring",
+    "yield": 4.0
+  },
+  {
+    "id": 752,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 9.75
+  },
+  {
+    "id": 753,
+    "name": "Sorghum",
+    "season": "Spring",
+    "yield": 7.82
+  },
+  {
+    "id": 754,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 7.65
+  },
+  {
+    "id": 755,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 2.74
+  },
+  {
+    "id": 756,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 5.98
+  },
+  {
+    "id": 757,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 2.96
+  },
+  {
+    "id": 758,
+    "name": "Melons",
+    "season": "Spring",
+    "yield": 2.26
+  },
+  {
+    "id": 759,
+    "name": "Melons",
+    "season": "Winter",
+    "yield": 1.0
+  },
+  {
+    "id": 760,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 6.4
+  },
+  {
+    "id": 761,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 7.9
+  },
+  {
+    "id": 762,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 6.92
+  },
+  {
+    "id": 763,
+    "name": "Wheat",
+    "season": "Spring",
+    "yield": 7.35
+  },
+  {
+    "id": 764,
+    "name": "Cucumbers",
+    "season": "Winter",
+    "yield": 7.07
+  },
+  {
+    "id": 765,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 4.76
+  },
+  {
+    "id": 766,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 2.63
+  },
+  {
+    "id": 767,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 2.69
+  },
+  {
+    "id": 768,
+    "name": "Spinach",
+    "season": "Winter",
+    "yield": 3.0
+  },
+  {
+    "id": 769,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 6.08
+  },
+  {
+    "id": 770,
+    "name": "Watermelons",
+    "season": "Winter",
+    "yield": 2.65
+  },
+  {
+    "id": 771,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 7.51
+  },
+  {
+    "id": 772,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 2.53
+  },
+  {
+    "id": 773,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 8.68
+  },
+  {
+    "id": 774,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 4.53
+  },
+  {
+    "id": 775,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 2.14
+  },
+  {
+    "id": 776,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 3.69
+  },
+  {
+    "id": 777,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 3.54
+  },
+  {
+    "id": 778,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 9.82
+  },
+  {
+    "id": 779,
+    "name": "Peppers",
+    "season": "Spring",
+    "yield": 6.7
+  },
+  {
+    "id": 780,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 9.46
+  },
+  {
+    "id": 781,
+    "name": "Cotton",
+    "season": "Winter",
+    "yield": 6.18
+  },
+  {
+    "id": 782,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 9.21
+  },
+  {
+    "id": 783,
+    "name": "Peanuts",
+    "season": "Autumn",
+    "yield": 5.12
+  },
+  {
+    "id": 784,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 8.95
+  },
+  {
+    "id": 785,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 7.44
+  },
+  {
+    "id": 786,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 5.38
+  },
+  {
+    "id": 787,
+    "name": "Peppers",
+    "season": "Winter",
+    "yield": 3.68
+  },
+  {
+    "id": 788,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 6.39
+  },
+  {
+    "id": 789,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 6.41
+  },
+  {
+    "id": 790,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 2.44
+  },
+  {
+    "id": 791,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 4.06
+  },
+  {
+    "id": 792,
+    "name": "Peppers",
+    "season": "Winter",
+    "yield": 2.85
+  },
+  {
+    "id": 793,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 7.53
+  },
+  {
+    "id": 794,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 9.64
+  },
+  {
+    "id": 795,
+    "name": "Wheat",
+    "season": "Autumn",
+    "yield": 2.82
+  },
+  {
+    "id": 796,
+    "name": "Potatoes",
+    "season": "Summer",
+    "yield": 6.22
+  },
+  {
+    "id": 797,
+    "name": "Rice",
+    "season": "Winter",
+    "yield": 9.8
+  },
+  {
+    "id": 798,
+    "name": "Rice",
+    "season": "Spring",
+    "yield": 2.91
+  },
+  {
+    "id": 799,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 6.57
+  },
+  {
+    "id": 800,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 5.34
+  },
+  {
+    "id": 801,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 7.63
+  },
+  {
+    "id": 802,
+    "name": "Cotton",
+    "season": "Summer",
+    "yield": 5.31
+  },
+  {
+    "id": 803,
+    "name": "Kale",
+    "season": "Autumn",
+    "yield": 3.33
+  },
+  {
+    "id": 804,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 2.11
+  },
+  {
+    "id": 805,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 8.85
+  },
+  {
+    "id": 806,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 1.26
+  },
+  {
+    "id": 807,
+    "name": "Wheat",
+    "season": "Autumn",
+    "yield": 4.26
+  },
+  {
+    "id": 808,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 4.83
+  },
+  {
+    "id": 809,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 3.37
+  },
+  {
+    "id": 810,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 4.85
+  },
+  {
+    "id": 811,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 8.83
+  },
+  {
+    "id": 812,
+    "name": "Spinach",
+    "season": "Winter",
+    "yield": 2.97
+  },
+  {
+    "id": 813,
+    "name": "Pumpkins",
+    "season": "Winter",
+    "yield": 2.33
+  },
+  {
+    "id": 814,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 6.81
+  },
+  {
+    "id": 815,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 3.61
+  },
+  {
+    "id": 816,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 3.03
+  },
+  {
+    "id": 817,
+    "name": "Maize",
+    "season": "Summer",
+    "yield": 3.19
+  },
+  {
+    "id": 818,
+    "name": "Cotton",
+    "season": "Autumn",
+    "yield": 2.56
+  },
+  {
+    "id": 819,
+    "name": "Onions",
+    "season": "Winter",
+    "yield": 5.7
+  },
+  {
+    "id": 820,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 8.99
+  },
+  {
+    "id": 821,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 3.84
+  },
+  {
+    "id": 822,
+    "name": "Barley",
+    "season": "Autumn",
+    "yield": 4.6
+  },
+  {
+    "id": 823,
+    "name": "Cotton",
+    "season": "Autumn",
+    "yield": 5.86
+  },
+  {
+    "id": 824,
+    "name": "Wheat",
+    "season": "Spring",
+    "yield": 4.37
+  },
+  {
+    "id": 825,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 2.66
+  },
+  {
+    "id": 826,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 7.63
+  },
+  {
+    "id": 827,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 5.54
+  },
+  {
+    "id": 828,
+    "name": "Tomatoes",
+    "season": "Spring",
+    "yield": 2.66
+  },
+  {
+    "id": 829,
+    "name": "Sugarcane",
+    "season": "Summer",
+    "yield": 8.21
+  },
+  {
+    "id": 830,
+    "name": "Rice",
+    "season": "Spring",
+    "yield": 5.2
+  },
+  {
+    "id": 831,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 6.44
+  },
+  {
+    "id": 832,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 7.3
+  },
+  {
+    "id": 833,
+    "name": "Peppers",
+    "season": "Spring",
+    "yield": 1.24
+  },
+  {
+    "id": 834,
+    "name": "Rice",
+    "season": "Spring",
+    "yield": 5.97
+  },
+  {
+    "id": 835,
+    "name": "Oats",
+    "season": "Autumn",
+    "yield": 9.04
+  },
+  {
+    "id": 836,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 2.5
+  },
+  {
+    "id": 837,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 4.94
+  },
+  {
+    "id": 838,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 1.95
+  },
+  {
+    "id": 839,
+    "name": "Kale",
+    "season": "Autumn",
+    "yield": 7.81
+  },
+  {
+    "id": 840,
+    "name": "Watermelons",
+    "season": "Winter",
+    "yield": 4.22
+  },
+  {
+    "id": 841,
+    "name": "Carrots",
+    "season": "Spring",
+    "yield": 3.12
+  },
+  {
+    "id": 842,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 5.97
+  },
+  {
+    "id": 843,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 5.66
+  },
+  {
+    "id": 844,
+    "name": "Cucumbers",
+    "season": "Summer",
+    "yield": 2.22
+  },
+  {
+    "id": 845,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 3.51
+  },
+  {
+    "id": 846,
+    "name": "Oats",
+    "season": "Winter",
+    "yield": 4.87
+  },
+  {
+    "id": 847,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 4.67
+  },
+  {
+    "id": 848,
+    "name": "Wheat",
+    "season": "Autumn",
+    "yield": 8.84
+  },
+  {
+    "id": 849,
+    "name": "Kale",
+    "season": "Spring",
+    "yield": 1.71
+  },
+  {
+    "id": 850,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 2.12
+  },
+  {
+    "id": 851,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 1.8
+  },
+  {
+    "id": 852,
+    "name": "Oats",
+    "season": "Autumn",
+    "yield": 5.41
+  },
+  {
+    "id": 853,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 9.34
+  },
+  {
+    "id": 854,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 1.85
+  },
+  {
+    "id": 855,
+    "name": "Garlic",
+    "season": "Winter",
+    "yield": 8.37
+  },
+  {
+    "id": 856,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 4.92
+  },
+  {
+    "id": 857,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 8.58
+  },
+  {
+    "id": 858,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 6.53
+  },
+  {
+    "id": 859,
+    "name": "Soybeans",
+    "season": "Spring",
+    "yield": 2.81
+  },
+  {
+    "id": 860,
+    "name": "Sunflowers",
+    "season": "Summer",
+    "yield": 2.33
+  },
+  {
+    "id": 861,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 5.03
+  },
+  {
+    "id": 862,
+    "name": "Sugarcane",
+    "season": "Spring",
+    "yield": 2.81
+  },
+  {
+    "id": 863,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 5.15
+  },
+  {
+    "id": 864,
+    "name": "Carrots",
+    "season": "Spring",
+    "yield": 6.78
+  },
+  {
+    "id": 865,
+    "name": "Maize",
+    "season": "Autumn",
+    "yield": 5.57
+  },
+  {
+    "id": 866,
+    "name": "Spinach",
+    "season": "Spring",
+    "yield": 5.35
+  },
+  {
+    "id": 867,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 2.37
+  },
+  {
+    "id": 868,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 3.15
+  },
+  {
+    "id": 869,
+    "name": "Carrots",
+    "season": "Spring",
+    "yield": 7.95
+  },
+  {
+    "id": 870,
+    "name": "Sugarbeets",
+    "season": "Spring",
+    "yield": 4.17
+  },
+  {
+    "id": 871,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 5.03
+  },
+  {
+    "id": 872,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 9.4
+  },
+  {
+    "id": 873,
+    "name": "Sugarbeets",
+    "season": "Winter",
+    "yield": 2.71
+  },
+  {
+    "id": 874,
+    "name": "Tomatoes",
+    "season": "Summer",
+    "yield": 7.82
+  },
+  {
+    "id": 875,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 2.75
+  },
+  {
+    "id": 876,
+    "name": "Oats",
+    "season": "Spring",
+    "yield": 3.8
+  },
+  {
+    "id": 877,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 2.07
+  },
+  {
+    "id": 878,
+    "name": "Carrots",
+    "season": "Winter",
+    "yield": 2.09
+  },
+  {
+    "id": 879,
+    "name": "Pumpkins",
+    "season": "Winter",
+    "yield": 6.03
+  },
+  {
+    "id": 880,
+    "name": "Pumpkins",
+    "season": "Spring",
+    "yield": 2.82
+  },
+  {
+    "id": 881,
+    "name": "Garlic",
+    "season": "Autumn",
+    "yield": 6.42
+  },
+  {
+    "id": 882,
+    "name": "Peanuts",
+    "season": "Summer",
+    "yield": 7.68
+  },
+  {
+    "id": 883,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 3.95
+  },
+  {
+    "id": 884,
+    "name": "Kale",
+    "season": "Winter",
+    "yield": 4.39
+  },
+  {
+    "id": 885,
+    "name": "Sorghum",
+    "season": "Autumn",
+    "yield": 8.78
+  },
+  {
+    "id": 886,
+    "name": "Soybeans",
+    "season": "Winter",
+    "yield": 9.89
+  },
+  {
+    "id": 887,
+    "name": "Lettuce",
+    "season": "Spring",
+    "yield": 9.69
+  },
+  {
+    "id": 888,
+    "name": "Soybeans",
+    "season": "Autumn",
+    "yield": 4.72
+  },
+  {
+    "id": 889,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 6.21
+  },
+  {
+    "id": 890,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 6.82
+  },
+  {
+    "id": 891,
+    "name": "Lettuce",
+    "season": "Winter",
+    "yield": 1.05
+  },
+  {
+    "id": 892,
+    "name": "Sunflowers",
+    "season": "Winter",
+    "yield": 9.48
+  },
+  {
+    "id": 893,
+    "name": "Pumpkins",
+    "season": "Spring",
+    "yield": 3.12
+  },
+  {
+    "id": 894,
+    "name": "Sugarbeets",
+    "season": "Autumn",
+    "yield": 7.26
+  },
+  {
+    "id": 895,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 4.71
+  },
+  {
+    "id": 896,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 5.7
+  },
+  {
+    "id": 897,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 9.26
+  },
+  {
+    "id": 898,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 5.88
+  },
+  {
+    "id": 899,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 3.95
+  },
+  {
+    "id": 900,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 9.27
+  },
+  {
+    "id": 901,
+    "name": "Cabbage",
+    "season": "Winter",
+    "yield": 2.84
+  },
+  {
+    "id": 902,
+    "name": "Pumpkins",
+    "season": "Summer",
+    "yield": 1.61
+  },
+  {
+    "id": 903,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 6.7
+  },
+  {
+    "id": 904,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 1.04
+  },
+  {
+    "id": 905,
+    "name": "Potatoes",
+    "season": "Autumn",
+    "yield": 5.06
+  },
+  {
+    "id": 906,
+    "name": "Peppers",
+    "season": "Winter",
+    "yield": 7.33
+  },
+  {
+    "id": 907,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 3.42
+  },
+  {
+    "id": 908,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 5.37
+  },
+  {
+    "id": 909,
+    "name": "Wheat",
+    "season": "Winter",
+    "yield": 8.81
+  },
+  {
+    "id": 910,
+    "name": "Broccoli",
+    "season": "Autumn",
+    "yield": 9.19
+  },
+  {
+    "id": 911,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 9.72
+  },
+  {
+    "id": 912,
+    "name": "Tomatoes",
+    "season": "Winter",
+    "yield": 5.54
+  },
+  {
+    "id": 913,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 5.81
+  },
+  {
+    "id": 914,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 2.66
+  },
+  {
+    "id": 915,
+    "name": "Pumpkins",
+    "season": "Spring",
+    "yield": 5.02
+  },
+  {
+    "id": 916,
+    "name": "Maize",
+    "season": "Winter",
+    "yield": 8.94
+  },
+  {
+    "id": 917,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 2.83
+  },
+  {
+    "id": 918,
+    "name": "Cauliflower",
+    "season": "Winter",
+    "yield": 5.53
+  },
+  {
+    "id": 919,
+    "name": "Onions",
+    "season": "Spring",
+    "yield": 8.1
+  },
+  {
+    "id": 920,
+    "name": "Sugarbeets",
+    "season": "Summer",
+    "yield": 3.1
+  },
+  {
+    "id": 921,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 1.37
+  },
+  {
+    "id": 922,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 7.7
+  },
+  {
+    "id": 923,
+    "name": "Barley",
+    "season": "Autumn",
+    "yield": 4.36
+  },
+  {
+    "id": 924,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 9.41
+  },
+  {
+    "id": 925,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 1.47
+  },
+  {
+    "id": 926,
+    "name": "Peanuts",
+    "season": "Spring",
+    "yield": 6.78
+  },
+  {
+    "id": 927,
+    "name": "Barley",
+    "season": "Summer",
+    "yield": 8.42
+  },
+  {
+    "id": 928,
+    "name": "Sorghum",
+    "season": "Winter",
+    "yield": 4.91
+  },
+  {
+    "id": 929,
+    "name": "Cucumbers",
+    "season": "Autumn",
+    "yield": 6.99
+  },
+  {
+    "id": 930,
+    "name": "Pumpkins",
+    "season": "Autumn",
+    "yield": 9.81
+  },
+  {
+    "id": 931,
+    "name": "Wheat",
+    "season": "Summer",
+    "yield": 2.27
+  },
+  {
+    "id": 932,
+    "name": "Sunflowers",
+    "season": "Spring",
+    "yield": 7.57
+  },
+  {
+    "id": 933,
+    "name": "Sorghum",
+    "season": "Spring",
+    "yield": 7.43
+  },
+  {
+    "id": 934,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 6.46
+  },
+  {
+    "id": 935,
+    "name": "Cotton",
+    "season": "Spring",
+    "yield": 2.99
+  },
+  {
+    "id": 936,
+    "name": "Sugarcane",
+    "season": "Autumn",
+    "yield": 8.36
+  },
+  {
+    "id": 937,
+    "name": "Wheat",
+    "season": "Autumn",
+    "yield": 7.71
+  },
+  {
+    "id": 938,
+    "name": "Sorghum",
+    "season": "Summer",
+    "yield": 1.59
+  },
+  {
+    "id": 939,
+    "name": "Sorghum",
+    "season": "Spring",
+    "yield": 1.91
+  },
+  {
+    "id": 940,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 2.47
+  },
+  {
+    "id": 941,
+    "name": "Cabbage",
+    "season": "Spring",
+    "yield": 2.01
+  },
+  {
+    "id": 942,
+    "name": "Cabbage",
+    "season": "Autumn",
+    "yield": 6.65
+  },
+  {
+    "id": 943,
+    "name": "Spinach",
+    "season": "Winter",
+    "yield": 3.91
+  },
+  {
+    "id": 944,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 2.8
+  },
+  {
+    "id": 945,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 8.48
+  },
+  {
+    "id": 946,
+    "name": "Cabbage",
+    "season": "Summer",
+    "yield": 6.77
+  },
+  {
+    "id": 947,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 8.92
+  },
+  {
+    "id": 948,
+    "name": "Oats",
+    "season": "Summer",
+    "yield": 1.17
+  },
+  {
+    "id": 949,
+    "name": "Broccoli",
+    "season": "Winter",
+    "yield": 9.18
+  },
+  {
+    "id": 950,
+    "name": "Sugarbeets",
+    "season": "Autumn",
+    "yield": 9.76
+  },
+  {
+    "id": 951,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 1.34
+  },
+  {
+    "id": 952,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 5.34
+  },
+  {
+    "id": 953,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 7.55
+  },
+  {
+    "id": 954,
+    "name": "Spinach",
+    "season": "Summer",
+    "yield": 2.82
+  },
+  {
+    "id": 955,
+    "name": "Sugarbeets",
+    "season": "Winter",
+    "yield": 5.74
+  },
+  {
+    "id": 956,
+    "name": "Peanuts",
+    "season": "Winter",
+    "yield": 8.17
+  },
+  {
+    "id": 957,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 8.6
+  },
+  {
+    "id": 958,
+    "name": "Spinach",
+    "season": "Autumn",
+    "yield": 3.05
+  },
+  {
+    "id": 959,
+    "name": "Spinach",
+    "season": "Winter",
+    "yield": 4.5
+  },
+  {
+    "id": 960,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 2.63
+  },
+  {
+    "id": 961,
+    "name": "Garlic",
+    "season": "Spring",
+    "yield": 5.35
+  },
+  {
+    "id": 962,
+    "name": "Watermelons",
+    "season": "Summer",
+    "yield": 8.36
+  },
+  {
+    "id": 963,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 1.8
+  },
+  {
+    "id": 964,
+    "name": "Zucchini",
+    "season": "Autumn",
+    "yield": 7.26
+  },
+  {
+    "id": 965,
+    "name": "Soybeans",
+    "season": "Summer",
+    "yield": 4.5
+  },
+  {
+    "id": 966,
+    "name": "Potatoes",
+    "season": "Spring",
+    "yield": 4.11
+  },
+  {
+    "id": 967,
+    "name": "Cotton",
+    "season": "Winter",
+    "yield": 9.99
+  },
+  {
+    "id": 968,
+    "name": "Peppers",
+    "season": "Summer",
+    "yield": 8.2
+  },
+  {
+    "id": 969,
+    "name": "Wheat",
+    "season": "Spring",
+    "yield": 7.05
+  },
+  {
+    "id": 970,
+    "name": "Rice",
+    "season": "Spring",
+    "yield": 5.77
+  },
+  {
+    "id": 971,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 1.9
+  },
+  {
+    "id": 972,
+    "name": "Rye",
+    "season": "Spring",
+    "yield": 7.24
+  },
+  {
+    "id": 973,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 7.86
+  },
+  {
+    "id": 974,
+    "name": "Tomatoes",
+    "season": "Autumn",
+    "yield": 6.06
+  },
+  {
+    "id": 975,
+    "name": "Lettuce",
+    "season": "Summer",
+    "yield": 1.41
+  },
+  {
+    "id": 976,
+    "name": "Rye",
+    "season": "Autumn",
+    "yield": 2.51
+  },
+  {
+    "id": 977,
+    "name": "Soybeans",
+    "season": "Spring",
+    "yield": 1.58
+  },
+  {
+    "id": 978,
+    "name": "Garlic",
+    "season": "Summer",
+    "yield": 1.62
+  },
+  {
+    "id": 979,
+    "name": "Potatoes",
+    "season": "Summer",
+    "yield": 9.1
+  },
+  {
+    "id": 980,
+    "name": "Kale",
+    "season": "Summer",
+    "yield": 2.88
+  },
+  {
+    "id": 981,
+    "name": "Cauliflower",
+    "season": "Summer",
+    "yield": 5.6
+  },
+  {
+    "id": 982,
+    "name": "Carrots",
+    "season": "Autumn",
+    "yield": 2.25
+  },
+  {
+    "id": 983,
+    "name": "Melons",
+    "season": "Summer",
+    "yield": 9.63
+  },
+  {
+    "id": 984,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 5.88
+  },
+  {
+    "id": 985,
+    "name": "Rye",
+    "season": "Summer",
+    "yield": 7.75
+  },
+  {
+    "id": 986,
+    "name": "Oats",
+    "season": "Autumn",
+    "yield": 5.31
+  },
+  {
+    "id": 987,
+    "name": "Zucchini",
+    "season": "Summer",
+    "yield": 4.83
+  },
+  {
+    "id": 988,
+    "name": "Kale",
+    "season": "Autumn",
+    "yield": 9.51
+  },
+  {
+    "id": 989,
+    "name": "Peppers",
+    "season": "Autumn",
+    "yield": 1.89
+  },
+  {
+    "id": 990,
+    "name": "Sugarcane",
+    "season": "Winter",
+    "yield": 9.18
+  },
+  {
+    "id": 991,
+    "name": "Carrots",
+    "season": "Summer",
+    "yield": 5.59
+  },
+  {
+    "id": 992,
+    "name": "Onions",
+    "season": "Summer",
+    "yield": 8.79
+  },
+  {
+    "id": 993,
+    "name": "Rye",
+    "season": "Winter",
+    "yield": 7.01
+  },
+  {
+    "id": 994,
+    "name": "Watermelons",
+    "season": "Autumn",
+    "yield": 6.12
+  },
+  {
+    "id": 995,
+    "name": "Zucchini",
+    "season": "Winter",
+    "yield": 3.61
+  },
+  {
+    "id": 996,
+    "name": "Zucchini",
+    "season": "Spring",
+    "yield": 7.58
+  },
+  {
+    "id": 997,
+    "name": "Broccoli",
+    "season": "Spring",
+    "yield": 7.03
+  },
+  {
+    "id": 998,
+    "name": "Barley",
+    "season": "Autumn",
+    "yield": 5.23
+  },
+  {
+    "id": 999,
+    "name": "Rice",
+    "season": "Summer",
+    "yield": 7.92
+  },
+  {
+    "id": 1000,
+    "name": "Maize",
+    "season": "Spring",
+    "yield": 9.61
+  }
+]

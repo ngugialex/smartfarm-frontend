@@ -2,7 +2,7 @@
   "name": "smartfarm",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://davidongora.github.io/smartfarm",
+  "homepage": "https://github.com/ngugialex/smartfarm-frontend",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -10,6 +10,402 @@
       "temperature": {"min": 55, "max": 75},
       "humidity": {"min": 40, "max": 60},
       "rainfall": {"min": 0.5, "max": 3}
+    },
+    {
+      "name": "Rice",
+      "temperature": {"min": 70, "max": 95},
+      "humidity": {"min": 60, "max": 90},
+      "rainfall": {"min": 4, "max": 10}
+    },
+    {
+      "name": "Soybean",
+      "temperature": {"min": 68, "max": 86},
+      "humidity": {"min": 55, "max": 80},
+      "rainfall": {"min": 2, "max": 5}
+    },
+    {
+      "name": "Potato",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 60, "max": 90},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Tomato",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Onion",
+      "temperature": {"min": 55, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Carrot",
+      "temperature": {"min": 55, "max": 75},
+      "humidity": {"min": 50, "max": 80},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Lettuce",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Spinach",
+      "temperature": {"min": 50, "max": 75},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Peanut",
+      "temperature": {"min": 70, "max": 90},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 5}
+    },
+    {
+      "name": "Garlic",
+      "temperature": {"min": 60, "max": 70},
+      "humidity": {"min": 50, "max": 60},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Ginger",
+      "temperature": {"min": 75, "max": 85},
+      "humidity": {"min": 70, "max": 90},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Pepper",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Cabbage",
+      "temperature": {"min": 55, "max": 70},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Broccoli",
+      "temperature": {"min": 55, "max": 70},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Cauliflower",
+      "temperature": {"min": 60, "max": 70},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Zucchini",
+      "temperature": {"min": 70, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Pumpkin",
+      "temperature": {"min": 70, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Squash",
+      "temperature": {"min": 70, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Cucumber",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Eggplant",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Melon",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Watermelon",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Strawberry",
+      "temperature": {"min": 60, "max": 80},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Blueberry",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Raspberry",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Blackberry",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Apple",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Peach",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Pear",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Cherry",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Plum",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 3}
+    },
+    {
+      "name": "Grape",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Lemon",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Orange",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Grapefruit",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Lime",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Mango",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Pineapple",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Banana",
+      "temperature": {"min": 75, "max": 95},
+      "humidity": {"min": 60, "max": 90},
+      "rainfall": {"min": 4, "max": 8}
+    },
+    {
+      "name": "Papaya",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 90},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Avocado",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Coconut",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 90},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Date",
+      "temperature": {"min": 75, "max": 100},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Fig",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Olive",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Kiwi",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Pomegranate",
+      "temperature": {"min": 60, "max": 80},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Guava",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 4}
+    },
+    {
+      "name": "Lychee",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Dragonfruit",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Passionfruit",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Starfruit",
+      "temperature": {"min": 70, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Durian",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Jackfruit",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Rambutan",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Mangosteen",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Breadfruit",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Cherimoya",
+      "temperature": {"min": 75, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Soursop",
+      "temperature": {"min": 75, "max": 85},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Longan",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 3, "max": 5}
+    },
+    {
+      "name": "Loganberry",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Tamarind",
+      "temperature": {"min": 75, "max": 90},
+      "humidity": {"min": 60, "max": 80},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Persimmon",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Loquat",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 2}
+    },
+    {
+      "name": "Mulberry",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 2, "max": 3}
+    },
+    {
+      "name": "Quince",
+      "temperature": {"min": 60, "max": 75},
+      "humidity": {"min": 50, "max": 70},
+      "rainfall": {"min": 1, "max": 2}
     }
   ]
   
